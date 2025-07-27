@@ -118,5 +118,10 @@ The system is designed for structural collaboration with AI across diverse tasks
 > 
 > K.A.I.T. Studio is not just a tech platform. It is a movement to counter the AI monopoly of large corporations and to build a world where every individual can have their own 'digital collaborator'. We are looking for peers to join us in creating a virtuous cycle for the 'Next-Gen Creator Economy', where the success of creators directly translates to the success of the platform.
 > 
-> **Will you join us on this great journey?**
+> **Closing Remarks**
+In truth, I have no prior coding experience — both the front-end and back-end of this project were developed entirely in collaboration with AI. Aside from this final section, even this document itself was co-written with AI, so some parts may feel a bit rough.
+
+This project has been my focus for the past six months, and I started everything from scratch. I believe the very fact that someone like me could build this alone is a powerful testament to the strength and potential of our system.
+
+Thank you.
 > ```
