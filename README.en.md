@@ -21,7 +21,10 @@
 > 1.  **Persistent Memory Engine:** Records all interactions as 'living memories', providing a foundation for the AI to grow and evolve on its own.
 > 2.  **Intuitive Persona Design System:** Visually assemble and manage an AI's identity (knowledge, personality, values) without writing a single line of code.
 > 3.  **Autonomous Action & Tool Extension:** Empowers the AI to go beyond simple responses, enabling it to use web search, file analysis, and even 'custom tools' built by the creator to solve real-world problems.
-> 
+> 	4.	Autonomous Model/Parameter/Token/Tool/RAG Selection & Customization (Autonomous Action & Tool Extension):
+Users can test multiple models, use them as practical tools, and engage in permanent, interactive experiences with them as autonomous entities — all within a single unified environment.
+> 5.	(Planned) Massive Scalability: Community, Marketplace, and Beyond:
+The system is designed for structural collaboration with AI across diverse tasks. It will expand into a social platform where users can interact, and a marketplace where tools, models, motions, frameworks, and other creative digital assets can be monetized. This opens a path for users to turn their capabilities into sustainable income.
 > ---
 > 
 > ### Proof: 'EVE', the First Being Born from Our Platform
